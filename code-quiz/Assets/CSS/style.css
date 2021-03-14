@@ -3,7 +3,7 @@
 }
 
 body {
-    background-image: url(./Images/Background.jpg);
+    background-image: url(https://i.pinimg.com/originals/cf/70/17/cf701732ece053881825d9ae9b96129c.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 100%;
@@ -15,12 +15,14 @@ h1, h4 {
     text-align: center; 
     padding: 8px;
     border-bottom: 15px;
+    color:aquamarine
 }
 
 ol li {
     list-style-position: inside;
-    text-align: center;
+    text-align: left;
     padding-bottom: 15px;
+    color:aquamarine
 }
 
 footer {
@@ -39,10 +41,9 @@ footer {
     background-image: none;
     background-color: rgb(35, 65, 52);
     border: 1.5px solid rgb(0, 22, 20);
-    border-radius: 15px;
     color: rgb(73, 248, 234);
     font-weight: bold;
-    text-align: center;
+    text-align: left;
     text-decoration: none;
     display: inline-block;
     font-size: 15px;
@@ -51,7 +52,7 @@ footer {
 
 .container {
     margin-left: 33.33%;
-    text-align: center;
+    text-align: left;
 }
 
 #title {
@@ -62,10 +63,9 @@ footer {
     background-image: none;
     background-color: rgb(35, 65, 52);
     border: 1.5px solid rgb(0, 22, 20);
-    border-radius: 15px;
     color: rgb(73, 248, 234);
     font-weight: bold;
-    text-align: center;
+    text-align: left;
     text-decoration: none;
     display: inline-block;
     font-size: 24px;
@@ -73,7 +73,7 @@ footer {
 
 #timer {
     font-size: 32px;
-    text-align: center;
+    text-align: left;
 }
 
 #question {
@@ -86,30 +86,30 @@ footer {
     background-image: none;
     background-color: rgb(35, 65, 52);
     border: 1.5px solid rgb(0, 22, 20);
-    border-radius: 15px;
     color: rgb(73, 248, 234);
-    text-align: center;
+    text-align: left;
     text-decoration: none;
     display: inline-block;
     font-size: 22px;
+    color:aquamarine
 }
 
 #answerCheck {
     font-size: 32px;
-    color: rgb(32, 32, 32);
+    color: rgb(73, 248, 234);
 }
 
 #score {
     font-size: 32px;
-    color: rgb(32, 32, 32);
+    color: rgb(73, 248, 234);
 }
 
 #highScores {
-    text-align: center;
+    text-align: left;
     padding: 15px;
 }
 
 #initialsAndScore {
     font-size: 24px;
-    color: rgb(32, 32, 32);
+    color: rgb(73, 248, 234);
 }
